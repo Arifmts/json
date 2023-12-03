@@ -1,0 +1,68 @@
+{
+    "WBUI2": {
+      "settings": {
+          "OpenButton": 0,
+          "HideIcon": false,
+          "HideIconAfter": 60,
+          "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+          "DisableIconText": false,
+          "IconPosition": 3,
+          "IconTextColor": 0,
+          "OpenOnStart": true,
+          "OpenOnStartOnlyNewPlayers": true,
+          "UpdateInterval": 12
+        },
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 2,
+            "buttontext": "Welcome",
+            "title1": "RuLes",
+            "text1": "1. Insulting family and religious values ​​is prohibited. (Penal sanctions apply)
+            \n2. It is forbidden to use Glitch/Mesh/Dupe/Aimbot and exploit similar vulnerabilities. (Penal sanctions apply.)
+            \n3. You can throw any kind of Pvp.\n\n4. You can keep a person in a cage for a maximum of 1 day, more than that is prohibited. (Penal sanctions are applied)
+            \n5. It is forbidden to change the tribe name in a way that causes confusion or to use insulting slang.
+            \n6. It is forbidden to imitate the appearance or name of the Admins. (Penal sanctions apply)
+            \n7. Bans will be lifted in every wipe that will not ban anyone from the server unless they have to, except for discord.
+            \n8. After throwing the fob, it is mandatory to remove it. The duration of the fob is maximum 1 day. (Penal sanctions apply)
+            \n9. The rules are absolute, friends, no one will be treated differently, even the admin has to take penal sanctions if he does not agree to abide by the rules.",
+            "title2": "Kurallar",
+            "text2": "1. Aileye ve dini değerlere hakaret etmek yasaktır.(Cezai yaptırımlar uygulanır)
+            \n2. Glitch/Mesh/Dupe/Aimbot kullanmak ve benzeri açıklardan yararlanmak yasaktır. (Cezai yaptırımlar uygulanır.)
+            \n3. Her Türlü Pvp Atabilirsiniz.
+            \n4. Bir kişiyi en fazla 1 gün süreyle kafes altında tutabilirsiniz fazlası yasaktır.(Cezai yaptırımlar uygulanır)
+            \n5. Kabile ismini karışıklığa sebep olucak şekilde değiştirmek veya hakaret argo kullanmak yasaktır.
+            \n6. Adminlerin görünüşünü veya adını taklit etmek yasaktır. (Cezai yaptırımlar uygulanır)
+            \n7. Farm bölgelerine turret atmak yasaktır. (Cezai yaptırımlar uygulanır)
+            \n8. Sunucudan kimseyi mecbur kalmadıkça banlamayacak her wipeda banlar kalkacaktır discord hariç.
+            \n9. Fob attıktan sonra kaldırmak zorunludur fobun durma süresi maksimum 1 gündür. (Cezai yaptırımlar uygulanır)
+            \n10. Kurallar kesindir arkadaşlar kimseye farklı davranılmayacak admin bile kurallara uymayı kabul etmezse cezai yaptırımları göze almak zorundadır.
+            \n11. Hertürlü reklam yasaktır. Özel vb farketmez.(Dogrudan Ip ban atılır)
+            \n12. Meshe taret atmak yapı yapmak yasaktır.(Cezai yaptırımlar uygulanır)
+            \nServera giriş yapıldığı andan itibaren kurallar okunmuş sayılmaktadır. Aksi takdirde oluşabilecek problemlerden yetkili kişiler sorumlu değildir.",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+        },
+        {
+          "tab2": {
+            "layout": 2,
+            "buttontext": "Commands",
+            "title1": "Commands",
+            "text1": "F1 WBUI\n\nYou can see information of the server with the F1 key.
+            \n\n F2 Shop\n\nYou can open the shop by pressing F2 and buy starterkits or dinosaurs.",
+            "title2": "Komutlar",
+            "text2": "F1 WBUI\n\nF1 tuşu ile sunucunun bilgilerini görebilirsin.\n\nF2 Shop\n\nF2 tuşuna basarak dükkanı açabilir ve başlangıç ​​kitleri veya dinozorlar satın alabilirsiniz.",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+        }
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Discord",
+            "url": "https://discord.gg/3yT23rDmnx"
+          }
+        }
+      ]
+    }
+  }  
