@@ -18,7 +18,7 @@
             "layout": 2,
             "buttontext": "Welcome",
             "title1": "RuLes",
-            "text1": "<TextStyle.Yellow>1. Insulting family and religious values is prohibited. (Penalties will be applied)\n
+            "text1": "1. Insulting family and religious values is prohibited. (Penalties will be applied)\n
             2. Using Glitch/Mesh/Dupe/Aimbot and exploiting similar vulnerabilities is prohibited. (Penalties will be applied)\n
             3. It is prohibited to change the tribe name in a way that may cause confusion or use insulting language.\n
             4. It is prohibited to impersonate the appearance or name of admins. (Penalties will be applied)\n
@@ -28,9 +28,9 @@
             8. The rules are strict; everyone, including admins, will be treated equally. If an admin refuses to comply with the rules, they must be prepared for penalties.\n
             9. Any form of advertising is prohibited. Whether it's private or otherwise. (Direct IP bans will be issued)\n
             10. Placing turrets or building structures in meshes is prohibited. (Penalties will be applied)\n
-            Upon entering the server, the rules are considered read. Otherwise, responsible parties are not liable for any issues that may arise.</>",
+            Upon entering the server, the rules are considered read. Otherwise, responsible parties are not liable for any issues that may arise.",
             "title2": "Kurallar",
-            "text2": "<TextStyle.Yellow>1. Aileye ve dini değerlere hakaret etmek yasaktır.(Cezai yaptırımlar uygulanır)
+            "text2": "1. Aileye ve dini değerlere hakaret etmek yasaktır.(Cezai yaptırımlar uygulanır)
             \n2. Glitch/Mesh/Dupe/Aimbot kullanmak ve benzeri açıklardan yararlanmak yasaktır. (Cezai yaptırımlar uygulanır.)
             \n5. Kabile ismini karışıklığa sebep olucak şekilde değiştirmek veya hakaret argo kullanmak yasaktır.
             \n6. Adminlerin görünüşünü veya adını taklit etmek yasaktır. (Cezai yaptırımlar uygulanır)
@@ -40,7 +40,7 @@
             \n10. Kurallar kesindir arkadaşlar kimseye farklı davranılmayacak admin bile kurallara uymayı kabul etmezse cezai yaptırımları göze almak zorundadır.
             \n11. Hertürlü reklam yasaktır. Özel vb farketmez.(Dogrudan Ip ban atılır)
             \n12. Meshe taret atmak yapı yapmak yasaktır.(Cezai yaptırımlar uygulanır)
-            \nServera giriş yapıldığı andan itibaren kurallar okunmuş sayılmaktadır. Aksi takdirde oluşabilecek problemlerden yetkili kişiler sorumlu değildir.</>",
+            \nServera giriş yapıldığı andan itibaren kurallar okunmuş sayılmaktadır. Aksi takdirde oluşabilecek problemlerden yetkili kişiler sorumlu değildir.",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
         },
