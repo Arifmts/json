@@ -18,29 +18,29 @@
             "layout": 2,
             "buttontext": "Welcome",
             "title1": "RuLes",
-            "text1": "1. Insulting family and religious values is prohibited. (Penalties will be applied)\n
-            2. Using Glitch/Mesh/Dupe/Aimbot and exploiting similar vulnerabilities is prohibited. (Penalties will be applied)\n
-            3. It is prohibited to change the tribe name in a way that may cause confusion or use insulting language.\n
-            4. It is prohibited to impersonate the appearance or name of admins. (Penalties will be applied)\n
-            5. Placing turrets in farm areas is prohibited. (Penalties will be applied)\n
-            6. Any bans by admins will be lifted as long as no one is forced to ban, except for Discord.\n
-            7. It is mandatory to remove FOBs after placing them; the maximum duration for a FOB to stay is 1 day. (Penalties will be applied)\n
-            8. The rules are strict; everyone, including admins, will be treated equally. If an admin refuses to comply with the rules, they must be prepared for penalties.\n
-            9. Any form of advertising is prohibited. Whether it's private or otherwise. (Direct IP bans will be issued)\n
-            10. Placing turrets or building structures in meshes is prohibited. (Penalties will be applied)\n
-            Upon entering the server, the rules are considered read. Otherwise, responsible parties are not liable for any issues that may arise.",
+            "text1": "\n1. Insulting family and religious values is prohibited. (Penalties will be applied)\n
+            \n2. Using Glitch/Mesh/Dupe/Aimbot and exploiting similar vulnerabilities is prohibited. (Penalties will be applied)\n
+            \n3. It is prohibited to change the tribe name in a way that may cause confusion or use insulting language.\n
+            \n4. It is prohibited to impersonate the appearance or name of admins. (Penalties will be applied)\n
+            \n5. Placing turrets in farm areas is prohibited. (Penalties will be applied)\n
+            \n6. Any bans by admins will be lifted as long as no one is forced to ban, except for Discord.\n
+            \n7. It is mandatory to remove FOBs after placing them; the maximum duration for a FOB to stay is 1 day. (Penalties will be applied)\n
+            \n8. The rules are strict; everyone, including admins, will be treated equally. If an admin refuses to comply with the rules, they must be prepared for penalties.\n
+            \n9. Any form of advertising is prohibited. Whether it's private or otherwise. (Direct IP bans will be issued)\n
+            \n10. Placing turrets or building structures in meshes is prohibited. (Penalties will be applied)\n
+            \nUpon entering the server, the rules are considered read. Otherwise, responsible parties are not liable for any issues that may arise.\n",
             "title2": "Kurallar",
-            "text2": "1. Aileye ve dini değerlere hakaret etmek yasaktır.(Cezai yaptırımlar uygulanır)
-            \n2. Glitch/Mesh/Dupe/Aimbot kullanmak ve benzeri açıklardan yararlanmak yasaktır. (Cezai yaptırımlar uygulanır.)
-            \n5. Kabile ismini karışıklığa sebep olucak şekilde değiştirmek veya hakaret argo kullanmak yasaktır.
-            \n6. Adminlerin görünüşünü veya adını taklit etmek yasaktır. (Cezai yaptırımlar uygulanır)
-            \n7. Farm bölgelerine turret atmak yasaktır. (Cezai yaptırımlar uygulanır)
-            \n8. Sunucudan kimseyi mecbur kalmadıkça banlamayacak her wipeda banlar kalkacaktır discord hariç.
-            \n9. Fob attıktan sonra kaldırmak zorunludur fobun durma süresi maksimum 1 gündür. (Cezai yaptırımlar uygulanır)
-            \n10. Kurallar kesindir arkadaşlar kimseye farklı davranılmayacak admin bile kurallara uymayı kabul etmezse cezai yaptırımları göze almak zorundadır.
-            \n11. Hertürlü reklam yasaktır. Özel vb farketmez.(Dogrudan Ip ban atılır)
-            \n12. Meshe taret atmak yapı yapmak yasaktır.(Cezai yaptırımlar uygulanır)
-            \nServera giriş yapıldığı andan itibaren kurallar okunmuş sayılmaktadır. Aksi takdirde oluşabilecek problemlerden yetkili kişiler sorumlu değildir.",
+            "text2": "\n1. Aileye ve dini değerlere hakaret etmek yasaktır. (Cezai yaptırımlar uygulanır)\n
+            \n2. Glitch/Mesh/Dupe/Aimbot kullanmak ve benzeri açıklardan yararlanmak yasaktır. (Cezai yaptırımlar uygulanır)\n
+            \n3. Kabile ismini karışıklığa sebep olacak şekilde değiştirmek veya hakaret argo kullanmak yasaktır.\n
+            \n4. Adminlerin görünüşünü veya adını taklit etmek yasaktır. (Cezai yaptırımlar uygulanır)\n
+            \n5. Farm bölgelerine turret atmak yasaktır. (Cezai yaptırımlar uygulanır)\n
+            \n6. Sunucudan kimseyi mecbur kalmadıkça banlamayacak; her wipeda banlar kalkacaktır, Discord hariç.\n
+            \n7. Fob attıktan sonra kaldırmak zorunludur; fobun durma süresi maksimum 1 gündür. (Cezai yaptırımlar uygulanır)\n
+            \n8. Kurallar kesindir; arkadaşlar, kimseye farklı davranılmayacak; admin bile kurallara uymayı kabul etmezse cezai yaptırımları göze almak zorundadır.\n
+            \n9. Her türlü reklam yasaktır. Özel veya başka türlü farketmez. (Doğrudan IP ban atılır)\n
+            \n10. Meshe taret atmak veya yapı yapmak yasaktır. (Cezai yaptırımlar uygulanır)\n
+            \nSunucuya giriş yapıldığı anda, kuralların okunduğu kabul edilir. Aksi takdirde sorumlu taraflar ortaya çıkabilecek herhangi bir sorundan muaf tutulmaz.\n",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
         },
